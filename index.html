@@ -2,41 +2,52 @@
 <html>
 	<head>
 		<title>Reece Robinson</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
 		<style>
 			html, body{
 				height: 100%;
-				background-color: #efefef;
-				font-size: 1em;
+				width: 100%;
+				overflow: hidden;
 			}
-			h2, img{
-				padding: 3em;
-			}
-			h2{
+			.splash, .about{
 				display: inline-block;
 			}
+			.splash{		
+				position: absolute;		
+				background-image: url('nmsu_cs.jpg');
+				background-position: 0% 60%;
+				background-repeat: no-repeat;
+				background-size: 120% auto;
+				box-shadow: 50px 50px 500px 100px white inset;
+				height: 100%;
+				width: 100%;
+			}
 			.about{
+				width: 250px;
+				margin-top: 10%;
 				font-family: monospace;
+			}
+			.about ul{
+				font-size: 1.5em;
+				list-style: none;
+				display: inline-block;
 			}
 		</style>
 	</head>
 
 	<body>
-		<img src="me.jpg">
+		<div class="splash container">
+			<h1><code>Reece Robinson</code></h1>
 
-		<div class="about">
-			<h2>Reece Robinson</h2>
-			<em>			
-				I'm a lifelong Alaskan studying Computer Science at New Mexico State. I'm into web development and development tools.
-			</em>
+			<div class="about col-md-offset-1">
+				<ul>
+					<li> <a href="resume.pdf">					  resume </a> </li>
+					<li> <a href="http://github.com/reecer">	  github </a> </li>
+					<li> <a href="https://www.npmjs.org/~reecer"> npm	 </a> </li>
+				</ul>
+			</div>
 		</div>
-
-
-		<div class="info">
-			<a href="http://github.com/reecer">github</a>
-			<a href="https://www.npmjs.org/~reecer">npm</a>
-		</div>
-		
-	
 
 	</body>
 
