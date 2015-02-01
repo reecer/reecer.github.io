@@ -1,0 +1,35 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+.main{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100%;
+
+  background-image: url('nmsu_cs.jpg');
+  background-position: 0% 60%;
+  background-repeat: no-repeat;
+  background-size: 130% auto;
+  box-shadow: 50px 50px 250px 250px white inset;
+}
+
+.name, .contact {
+  text-align: center;
+  padding: 2em;
+}
+
+.about{
+  text-align: center;
+  flex-grow: 1;
+}
+
+.about a {
+  text-decoration: none;
+  color: black;
+  margin: 0 0.5em;
+}
+.about a:hover{
+  text-shadow: 0 0 15px;
+}
