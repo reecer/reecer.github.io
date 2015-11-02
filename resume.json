@@ -1,0 +1,143 @@
+{
+  "basics": {
+    "name": "Reece Robinson",
+    "label": "Programmer",
+    "picture": "",
+    "email": "reecekrobinson@gmail.com",
+    "phone": "(907)-354-1181",
+    "website": "http://reecer.github.io",
+    "summary": "I'm a lifelong Alaskan. I take pride in my ability to quickly learn and adapt to different environments. While earning a Bachelor's and Minor in southern New Mexico, I extensively self-taught web technologies. I follow the bleeding-edge trends and am always trying to dip my toes into something new. I'm interested in learning every day through writing code. Upon graduation in December 2015, I seek immediate employment.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "reecer",
+        "url": "https://twitter.com/reecekrobinson"
+      },
+      {
+        "network": "Github",
+        "username": "reecer",
+        "url": "https://github.com/reecer"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Solutionhead Technologies , LLC",
+      "position": "Front End Web Developer",
+      "website": "",
+      "startDate": "May 2013",
+      "endDate": "January 2015",
+      "summary": "I've worked for Vinney on and off for 2 years. Most of my work involved building, fixing and maintaining complex user interfaces for an in-house SaaS. Most recently, I helped migrate an existing RequireJS codebase to Webpack-handled bundling.",
+      "highlights": [
+        "Modular Javascript",
+        "Knockout.js",
+        "Revision control (svn)",
+        "RESTful communication"
+      ]
+    },
+    {
+      "company": "Beacon Media + Marketing",
+      "position": "Subcontractor",
+      "website": "",
+      "startDate": "June 2014",
+      "endDate": "July 2014",
+      "summary": "Set up Wordpress-hosted sites for local Alaska businesses. Learned a lot about Wordpress plugins and sharpened my SASS skills.",
+      "highlights": [
+        "PHP",
+        "SASS",
+        "Javascript"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "New Mexico State University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2010",
+      "endDate": "2015",
+      "gpa": "",
+      "courses": [
+        "Linux System Administration",
+        "Computer Security",
+        "User Interface Design",
+        "Computer Network I"
+      ]
+    },
+    {
+      "institution": "New Mexico State University",
+      "area": "Computer Engineering",
+      "studyType": "Minor",
+      "startDate": "2010",
+      "endDate": "2015",
+      "gpa": "",
+      "courses": [
+        "Digital Circuit Design",
+        "Embedded Systems"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "NOLS Alumni",
+      "date": "2010",
+      "awarder": "National Outdoor Leadership School (NOLS)",
+      "summary": "28-day backpacking adventure through the Talkeetna mountains. Used topological maps to navigate to ration points until catching a train back home. Learned leadership, cooperation, and survival skills. Inquire for more details."
+    },
+    {
+      "title": "2nd Place Coding Competition",
+      "date": "November 2012",
+      "awarder": "ACM/GDC",
+      "summary": "A language-agnostic coding competition for groups of 1-3 NMSU students. I competed solo."
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "Javascript/Node.js",
+        "Python",
+        "C/C++",
+        "Bash",
+        "Revision Control",
+        "REST",
+        "Fullstack",
+        "LEARNING"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Skiing",
+      "keywords": []
+    },
+    {
+      "name": "Guitar",
+      "keywords": []
+    },
+    {
+      "name": "Backpacking",
+      "keywords": []
+    },
+    {
+      "name": "Craft Beer",
+      "keywords": []
+    },
+    {
+      "name": "Fishing",
+      "keywords": []
+    }
+  ],
+  "references": []
+}

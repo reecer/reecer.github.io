@@ -15,7 +15,7 @@ body{
   box-shadow: 50px 50px 250px 250px white inset;
 }
 
-.name, .contact {
+.name, .contact, .resume {
   text-align: center;
   padding: 2em;
 }
