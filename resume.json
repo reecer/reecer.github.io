@@ -5,7 +5,7 @@
     "picture": "",
     "email": "reecekrobinson@gmail.com",
     "phone": "(907)-354-1181",
-    "website": "http://reecer.github.io",
+    "website": "https://reecer.github.io",
     "summary": "I'm a lifelong Alaskan. I take pride in my ability to quickly learn and adapt to different environments. While earning a Bachelor's and Minor in southern New Mexico, I extensively self-taught web technologies. I follow the bleeding-edge trends and am always trying to dip my toes into something new. I'm interested in learning every day through writing code. Upon graduation in December 2015, I seek immediate employment.",
     "location": {
       "address": "",
@@ -34,7 +34,7 @@
       "website": "",
       "startDate": "May 2013",
       "endDate": "January 2015",
-      "summary": "I've worked for Vinney on and off for 2 years. Most of my work involved building, fixing and maintaining complex user interfaces for an in-house SaaS. Most recently, I helped migrate an existing RequireJS codebase to Webpack-handled bundling.",
+      "summary": "I've worked for Vinney on and off for 2 years. Most of my work involved building, fixing and maintaining complex user interfaces for an in-house SaaS. Most recently, I helped migrate an existing RequireJS codebase to Webpack-handled bundling. I was mentored the importance of modularity while given the opportunity to independently design and create interface components. Often worked remotely.",
       "highlights": [
         "Modular Javascript",
         "Knockout.js",
@@ -48,7 +48,7 @@
       "website": "",
       "startDate": "June 2014",
       "endDate": "July 2014",
-      "summary": "Set up Wordpress-hosted sites for local Alaska businesses. Learned a lot about Wordpress plugins and sharpened my SASS skills.",
+      "summary": "Set up Wordpress-hosted sites for local Alaska businesses. Worked closely (mostly remotely) with the lead developer turning design mock-ups into responsive web designs. Learned a lot about Wordpress plugins and sharpened my SASS skills.",
       "highlights": [
         "PHP",
         "SASS",
@@ -102,17 +102,24 @@
   "publications": [],
   "skills": [
     {
-      "name": "",
+      "name": "Programming",
       "level": "",
       "keywords": [
         "Javascript/Node.js",
         "Python",
         "C/C++",
-        "Bash",
+        "Java",
+        "Bash"
+      ]
+    },
+    {
+      "name": "Communication",
+      "level": "",
+      "keywords": [
+        "TCP, UDP, HTTP(S)",
+        "RESTful",
         "Revision Control",
-        "REST",
-        "Fullstack",
-        "LEARNING"
+        "Cryptography"
       ]
     }
   ],
