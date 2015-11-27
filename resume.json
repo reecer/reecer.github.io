@@ -34,7 +34,7 @@
       "website": "",
       "startDate": "May 2013",
       "endDate": "January 2015",
-      "summary": "I've worked for Vinney on and off for 2 years. Most of my work involved building, fixing and maintaining complex user interfaces for an in-house SaaS. Most recently, I helped migrate an existing RequireJS codebase to Webpack-handled bundling. I was mentored the importance of modularity while given the opportunity to independently design and create interface components. Often worked remotely.",
+      "summary": "I've worked for Vinney on and off for 2 years. Most of the time I was part time, but there were times I worked 30 hours a week. Most of my work involved creating and maintaining web-based user interfaces for a custom built database management system (DBMS). Specifically, it handled all the tasks with ordering, composing, dehydrating, testing, and shipping Chile products. It employed a .NET server end, with a (mostly) single page application facing the user interacting over JSON-REST (Representational State Transfer). 98% of my work was spent with JavaScript.  I was mentored the importance of modularity while given the opportunity to independently design and create interface components. Often worked from home.",
       "highlights": [
         "Modular Javascript",
         "Knockout.js",
@@ -88,7 +88,7 @@
   "awards": [
     {
       "title": "NOLS Alumni",
-      "date": "2010",
+      "date": "August 2009",
       "awarder": "National Outdoor Leadership School (NOLS)",
       "summary": "28-day backpacking adventure through the Talkeetna mountains. Used topological maps to navigate to ration points until catching a train back home. Learned leadership, cooperation, and survival skills. Inquire for more details."
     },
@@ -96,7 +96,13 @@
       "title": "2nd Place Coding Competition",
       "date": "November 2012",
       "awarder": "ACM/GDC",
-      "summary": "A language-agnostic coding competition for groups of 1-3 NMSU students. I competed solo."
+      "summary": "The Game Development Club (GDC), with sponsorship from the Association for Computing Machinery (ACM), hosted a language-agnostic coding competition for groups of 1-3 NMSU students. I competed solo and managed to barely let 1st slip away to a group of 3."
+    },
+    {
+      "title": "2nd Place Bug Bounty Competition",
+      "date": "October 2015",
+      "awarder": "Snapchat",
+      "summary": "I submitted a pretty severe bug to SnapChat's bug-bounty program. The bug was in the password reset form allowing an attacker to hijack a user's account by tricking them to change their password with a specially/maliciously crafted URL. They awarded me with 2nd place in their October 2015 competition."
     }
   ],
   "publications": [],
@@ -109,11 +115,12 @@
         "Python",
         "C/C++",
         "Java",
-        "Bash"
+        "Bash",
+        "Golang"
       ]
     },
     {
-      "name": "Communication",
+      "name": "Protocols",
       "level": "",
       "keywords": [
         "TCP, UDP, HTTP(S)",
@@ -143,6 +150,10 @@
     },
     {
       "name": "Fishing",
+      "keywords": []
+    },
+    {
+      "name": "Learning",
       "keywords": []
     }
   ],

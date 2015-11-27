@@ -17,6 +17,9 @@ body{
 
 .name, .contact, .resume {
   text-align: center;
+}
+
+.contact {
   padding: 2em;
 }
 
